@@ -1,0 +1,4 @@
+Human emotions are the one of keyfactor that decides what human is going to perform or action that will be carried out by a human. Facial expressions of a human is the one that plays vital role in analyzing as they are natural signals which can be further more processed via videos or images. The emotions are complex to be analyzed by a machine in compare to human. Currently, several known state-of-art classifiers, such as CNN, ANN, SVM,KNN and random forest(RF) are used for several features extraction. The face recognition technique currently available mainly focuses on grayscale images and there are few mechanism only which are able to work with color images. The better performance can be achieved with the help of window-based technologies or pixel-based technologies. There is 
+Also one of the major issue with the  pixel-based 
+Method that it can lag while operating and separating
+Face from other regions of human body.
